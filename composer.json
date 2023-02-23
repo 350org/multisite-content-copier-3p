@@ -1,0 +1,17 @@
+{
+  "name": "350org/multisite-content-copier-3p",
+  "description": "Copy any content from any site in your network to any other site or group of sites in the same network.",
+  "version": "1.5.3",
+  "keywords": ["wordpress", "plugin"],
+  "homepage": "https://github.com/350org/multisite-content-copier-3p",
+  "authors": [
+    {
+      "name": "WPMU DEV",
+      "homepage": "http://premium.wpmudev.org/"
+    }
+  ],
+  "type": "wordpress-plugin",
+  "require": {
+    "php": ">=7.0"
+  }
+}
